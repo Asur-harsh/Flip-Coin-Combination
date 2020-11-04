@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash/
 echo "------------------------------- Well come flip coin simulator ---------------------------"
 
 #DECLARE A DICTIONARY
